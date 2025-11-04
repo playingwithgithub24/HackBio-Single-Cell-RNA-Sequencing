@@ -1,2 +1,2 @@
 # HackBio-Single Cell-RNA-Sequencing
-
+This repository houses a collection of files and resources utilized during the HackBio internship program, being held from October to December 2025. The theme for this internship is focused on Single Cell RNA Sequencing, exploring various aspects and research areas related to this. The resources uploaded here include Python scripts and the final reports of the various tasks that I contributed to, along with my team.
