@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # HackBio Internship – Team Histidine Stage 0 Task
-# Task: Print names, Slack usernames, countries, hobbies, affiliations, and DNA sequences of favorite genes
+# Task: Print names, Slack usernames, countries, hobbies, affiliations, and DNA sequences of favourite genes of teammates
 # Author: Antara Ghanta
 # GitHub: https://github.com/playingwithgithub24/HackBio-Single-Cell-RNA-Sequencing
 # LinkedIn: www.linkedin.com/in/antara-ghanta
